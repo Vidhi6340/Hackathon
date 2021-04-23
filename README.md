@@ -1,7 +1,3 @@
-TEAM NAME – TechBay
-TEAM CODE – 
-TEAM MEMBERS – Bhavya Joshi , Esha Goel , Vidhi Garg
-TRACK – Open Innovation
 Problem Statement – Making A voice Based Shopping/Personal Assistant
 
 Description of the Project:
